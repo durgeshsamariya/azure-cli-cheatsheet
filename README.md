@@ -2,16 +2,16 @@
 
 Azure CLI 2.0 cheatsheet for Login, Resources, VMs, Resource groups, Storage, Batch, and Containers.
 
-## Logging in
+## General Commands
 
-### Login with web
+### Login to Azure
 ```
 az login
 ```
 
-### Login in CLI
+### Logout of Azure
 ```
-az login -u myemail@address.com
+az logout
 ```
 
 ### List accounts
